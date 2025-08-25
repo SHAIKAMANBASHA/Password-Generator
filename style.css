@@ -35,7 +35,9 @@ body {
   margin-bottom: 20px;
   position: relative;
 }
-
+.firstDiv h1{
+cursor:pointer;
+}
 #newPass {
   font-size: 18px;
   color: #333;
@@ -59,6 +61,9 @@ body {
   align-items: center;
   justify-content: space-between;
   margin-bottom: 20px;
+}
+input{
+cursor:pointer;
 }
 
 #range {
